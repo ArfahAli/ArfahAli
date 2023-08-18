@@ -1,7 +1,7 @@
 # Hi there, I'm Arfah - aka [Devo]👋 
 
 
-[![Upwork](https://img.shields.io/website?label=Upwork.com&style=for-the-badge&url=https%3A%2F%2FUpwork.com)](https://www.upwork.com/freelancers/~01efc860313db560e8)
+[![Upwork](https://img.shields.io/website?label=Upwork.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.upwork.com/freelancers/~01efc860313db560e8)
 [![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/codestackr.codestackr-theme?label=Read%20my%20oArticles&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://medium.com/@arfahali994)
 [![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/codestackr.codestackr-theme?label=Hire%20me%20on%20LinkedIN&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://www.linkedin.com/in/front-end-web-developer-expert)
 [![Coonect with me](https://img.shields.io/badge/-Connect%20with%20me%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://www.linkedin.com/in/front-end-web-developer-expert)
