@@ -5,7 +5,7 @@
 
 
 [![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/codestackr.codestackr-theme?label=codeSTACKr%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://www.linkedin.com/in/front-end-web-developer-expert)
-[![Coonect with me](https://img.shields.io/badge/-Connect%20A%20VS%20with%20me%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://www.linkedin.com/in/front-end-web-developer-expert)
+[![Coonect with me](https://img.shields.io/badge/-Connect%20with%20me%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://www.linkedin.com/in/front-end-web-developer-expert)
 
 
 ## I'm a Front-End Developer!
