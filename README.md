@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web & Mobile App Developer 💻
 -----------------------------
 
-Coding is like playing badminton. Each line of code is a well-aimed shot, and debugging becomes a strategic game. I switch between badminton🏸 and coding, and after playing, I cook up something tasty. Badminton teaches me to be exact, helpful in coding where fixing problems is like reviewing a game, getting ready for the next app success. ✌️
+Coding is like playing badminton for me. Each line of code is a well-aimed shot, and debugging becomes a strategic game. I switch between badminton🏸 and coding, and after playing, I cook up something tasty. Badminton teaches me to be exact, helpful in coding where fixing problems is like reviewing a game, getting ready for the next app success. ✌️
 
 * 🌍  I'm based in Wah Cantt, Pakistan.
 * ✉️  You can contact me at [arfahali994@gmail.com](mailto:arfahali994@gmail.com )
