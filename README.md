@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arfah Ali
 =================================================================================================================================
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=700&size=35&pause=1000&color=832B78&random=false&width=435&lines=Hi+My+name+is+Arfah+Ali+Web+%26+Mobile+App+Developer+%F0%9F%92%BB)](https://git.io/typing-svg)
 Web & Mobile App Developer 💻
 -----------------------------
 
