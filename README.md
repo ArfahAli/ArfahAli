@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arfah Ali
 =================================================================================================================================
 
-Web & Mobile App Developer 💻
+Full Stack Web & Mobile App Developer 💻
 -----------------------------
 
 Coding is like playing badminton for me. Each line of code is a well-aimed shot, and debugging becomes a strategic game. I switch between badminton🏸 and coding, and after playing, I cook up something tasty. Badminton teaches me to be exact, helpful in coding where fixing problems is like reviewing a game, getting ready for the next app success. ✌️
