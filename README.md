@@ -4,21 +4,33 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Web & Mobile App Developer 💻
 -----------------------------
 
-My portfolio speaks louder than words — feel free to check it out! 🎯
+> My portfolio speaks louder than words — have a look! 🎯
 
-If you’re here, you already know —
-I build clean, modern websites from idea to launch 🚀
+---
 
-🌟 What I Do:
-Full Stack Web Development (Frontend + Backend)
-Figma to Website Conversion
-Responsive Mobile-First Design
-API Integration & Secure REST APIs
-E-commerce and Payment Gateway Setup
-SEO Optimization
+## 🌟 About Me
+- I'm a Full Stack Web Developer.
+- I turn your ideas or designs into fully working, beautiful websites.
+- I specialize in both frontend and backend development.
 
-🛠️ My Tech Stack:
-Javascript | ReactJS | NextJS | React Native | Typescript | TailwindCSS | NodeJS | MongoDB | SQL | Firebase
+---
+
+## 🛠️ Tech Stack
+- **Frontend:** Javascript, ReactJS, NextJS, React Native, Typescript, TailwindCSS
+- **Backend:** NodeJS, MongoDB, SQL, Firebase
+
+---
+
+## 🚀 Services I Offer
+- Complete Frontend and Backend Development
+- Custom Website Development
+- Figma to Website Conversion
+- Responsive Mobile-First Design
+- Secure REST API Development
+- Seamless API Integration
+- Payment Gateway Integration
+- E-commerce Functionality
+- SEO Optimization
 
 ### Skills
 
